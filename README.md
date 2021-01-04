@@ -12,4 +12,4 @@ Rebecca Scott Weiss - https://github.com/rebeccascottweiss
 
 ## DEMO
 
-![APP DEMO]()
+![APP DEMO](/trivial.gif)
